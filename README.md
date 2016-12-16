@@ -22,6 +22,9 @@ MySQL Search by relevance with FULLTEXT indexes
 
 ![query match against](https://raw.githubusercontent.com/marcosfreitas/mysql-search-by-relevance/master/images/query-match-against.png)
 
+> results of query above, resulted records ordered by relevance index
+
+![query match against](https://raw.githubusercontent.com/marcosfreitas/mysql-search-by-relevance/master/images/results-of-query.png)
 
 
 
